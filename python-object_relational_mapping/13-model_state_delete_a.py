@@ -1,4 +1,6 @@
- all State objects with a name containing the letter a
+#!/usr/bin/python3
+"""
+Deletes all State objects with a name containing the letter a
 """
 import sys
 from model_state import Base, State
